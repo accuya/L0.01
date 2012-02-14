@@ -1,1 +1,11 @@
-I am trying to compile linux - the kernel - on a pc.
+I am trying to compile linux - the kernel - on a pc running ubuntu 11.10.
+and I'll try to run it on bochs.
+
+original code from:
+http://www.kernel.org/pub/linux/kernel/Historic/linux-0.01.tar.gz cbcf7172880aad4c798761e602b51c48
+
+original releasenotes:
+http://www.kernel.org/pub/linux/kernel/Historic/old-versions/RELNOTES-0.01
+
+Copyrights:
+For the original code, refer to the original releasenotes for details.
